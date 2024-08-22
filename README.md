@@ -1,2 +1,2 @@
 # Lux-Projects
-Data Science Programme with LUX
+Data Science Programme with LUX Tech Academy
